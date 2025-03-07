@@ -2,4 +2,6 @@ $ cat .gitignore
 *~
 *tmp
 __pycache__/
+htmlcov/
+.coverage
 *.pytest.cache
